@@ -9,9 +9,9 @@
 
 ## Screenshot Hasil Tampilan Aplikasi
 
-# Pertemuan 1
+## Pertemuan 1
 ![Hasil Tampilan Aplikasi](/Pertemuan-1.jpg)
 
-# Pertemuan 2
+## Pertemuan 2
 ![Hasil Tampilan Aplikasi](/Pertemuan-2_1.jpg)
 ![Hasil Tampilan Aplikasi](/Pertemuan-2_2.jpg)
