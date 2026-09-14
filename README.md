@@ -7,7 +7,7 @@
 - **Shift Lama:** E
 - **Shift Baru:** D
 
-## Screenshot Hasil Tampilan Aplikasi
+# Screenshot Hasil Tampilan Aplikasi
 
 ## Pertemuan 1
 ![Hasil Tampilan Aplikasi](/Pertemuan-1.jpg)
