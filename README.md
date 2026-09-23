@@ -15,3 +15,6 @@
 ## Pertemuan 2
 ![Hasil Tampilan Aplikasi](/Pertemuan-2_1.jpg)
 ![Hasil Tampilan Aplikasi](/Pertemuan-2_2.jpg)
+
+## Pertemuan 3
+![Hasil Tampilan Aplikasi](/Pertemuan-3.gif)
